@@ -44,4 +44,4 @@ jobs:
           uses: docker/build-push-action@v2 
           with:
             push: true
-            tags: pahan174/sprint16:latest:latest 
+            tags: pahan174/sprint16:latest 
